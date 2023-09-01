@@ -94,6 +94,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Related Repositories
 
-- [Mini-Project](https://github.com/amankushwaha0606/parcel-delivery-system): Frontend code for the Mini-Project web application.
+- [Mini-Project](https://github.com/amankushwaha0606/parcel-delivery-system): Backend code ( parcel-delivery-system ) for the Mini-Project backend application with more details.
 
 ---
